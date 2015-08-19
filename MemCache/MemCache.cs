@@ -14,7 +14,7 @@ namespace Caching
         {
             List<string> cacheKeys = myCache.AsParallel().Select(kvp => kvp.Key).ToList();
 
-            Parallel.ForEach(cacheKeys, c => { myCache.Remove(c); });
+            Parallel.ForEach(cacheKeys, c => myCache.Remove(c));
         }
 
         public static void Set(string key, object objectToCache, int cacheExpirationInMins, bool persistCache)
