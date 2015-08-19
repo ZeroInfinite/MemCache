@@ -1,5 +1,0 @@
-F:\Shiraz\GitHub\MemCache\MemCache\bin\Debug\MemCache.dll
-F:\Shiraz\GitHub\MemCache\MemCache\bin\Debug\MemCache.pdb
-F:\Shiraz\GitHub\MemCache\MemCache\obj\Debug\MemCache.csprojResolveAssemblyReference.cache
-F:\Shiraz\GitHub\MemCache\MemCache\obj\Debug\MemCache.dll
-F:\Shiraz\GitHub\MemCache\MemCache\obj\Debug\MemCache.pdb
