@@ -1,5 +1,5 @@
-# MemCache
-,NET 4 Memory Cache experiments
+# MemCache (we've moved to CodePlex at https://memcache.codeplex.com/)
+.NET 4 Memory Cache experiments
 
 Hi there,
 
